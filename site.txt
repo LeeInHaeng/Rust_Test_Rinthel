@@ -1,1 +1,1 @@
-https://rinthel.github.io/rust-lang-book-ko/ch12-00-an-io-project.html
+https://rinthel.github.io/rust-lang-book-ko/ch13-00-functional-features.html
