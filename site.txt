@@ -1,1 +1,1 @@
-https://rinthel.github.io/rust-lang-book-ko/ch01-02-hello-world.html
+https://rinthel.github.io/rust-lang-book-ko/ch12-00-an-io-project.html
