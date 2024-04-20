@@ -1,1 +1,1 @@
-https://rinthel.github.io/rust-lang-book-ko/ch14-00-more-about-cargo.html
+https://rinthel.github.io/rust-lang-book-ko/ch16-00-concurrency.html
