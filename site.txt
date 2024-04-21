@@ -1,1 +1,1 @@
-https://rinthel.github.io/rust-lang-book-ko/ch16-00-concurrency.html
+https://rinthel.github.io/rust-lang-book-ko/ch17-02-trait-objects.html
