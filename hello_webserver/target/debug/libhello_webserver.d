@@ -1,0 +1,1 @@
+C:\Users\82106\rust\rinthel\Rust_Test_Rinthel\Rust_Test_Rinthel\hello_webserver\target\debug\libhello_webserver.rlib: C:\Users\82106\rust\rinthel\Rust_Test_Rinthel\Rust_Test_Rinthel\hello_webserver\src\lib.rs
